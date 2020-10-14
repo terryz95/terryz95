@@ -8,4 +8,6 @@
 - 📪 成年人的社交账号<a href="mailto:mousetrip@outlook.com">mousetrip@outlook.com</a>
 - 👀 或者可以来<a href="https://github.com/terryz95/terryz95/issues">我的空间</a>踩一踩
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terryz95&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 ![terryz95's github stats](https://github-readme-stats.vercel.app/api?username=terryz95&theme=vue)
